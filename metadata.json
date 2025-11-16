@@ -1,0 +1,5 @@
+{
+  "name": "Project Management Dashboard",
+  "description": "A comprehensive application for managing civil engineering projects, focusing on the control of structural parts. Users can view, filter, sort, and manage a detailed list of project components.",
+  "requestFramePermissions": []
+}
